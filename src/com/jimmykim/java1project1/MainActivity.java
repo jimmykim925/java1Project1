@@ -92,7 +92,7 @@ public class MainActivity extends Activity {
 		});
 		
 		
-		
+		// makes button to the side of the text field
 		LinearLayout form = new LinearLayout(this);
 		form.setOrientation(LinearLayout.HORIZONTAL);
 		lp = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
@@ -110,6 +110,7 @@ public class MainActivity extends Activity {
 		setContentView(ll);
 	}
 	
+	// function that adds two integers
 	public int add(int x, int y)
 	 { 
 	  return x + y;
