@@ -1,0 +1,4 @@
+<resources>
+    <integer name="usa">4</integer>
+    <integer name="canadian">6</integer>
+</resources>

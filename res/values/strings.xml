@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">java1Project1</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-
+		<string name="textfield_title">Enter ONLY an Integer Below</string>
+		<string name="button_title">Submit</string>
 </resources>
